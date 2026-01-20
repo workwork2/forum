@@ -13,7 +13,7 @@ export default function Home() {
     <div className="App">
       <header className="header">
         <nav className="nav">
-          <h1 className="title">Мамонт-Имп</h1>
+          <h1 className="title">ООО «Форум»</h1>
           <ul className="nav-links">
             <li><a href="#about">О компании</a></li>
             <li><a href="#why">Почему выбирают нас</a></li>
@@ -121,18 +121,17 @@ export default function Home() {
             <h2>Контакты</h2>
 
             <div className="contact-item">
-              <strong>Адрес:</strong> 692512, Приморский край, г. Уссурийск,
-              ул. Комсомольская, д. 28а, оф. 30
+              <strong>Email:</strong>{' '}
+              <a href="mailto:forum.msk@internet.ru">forum.msk@internet.ru</a>
             </div>
 
             <div className="contact-item">
               <strong>Телефон:</strong>{' '}
-              <a href="tel:+79143386139">8 (914) 338-61-39</a>
+              <a href="tel:+79256085743">+7 (925) 608-57-43</a>
             </div>
 
             <div className="contact-item">
-              <strong>Email:</strong>{' '}
-              <a href="mailto:mamont-imp@bk.ru">mamont-imp@bk.ru</a>
+              <strong>Адрес:</strong> 123242, город Москва, Кудринская пл, д. 1, помещ. 5а
             </div>
           </div>
         </section>
@@ -145,7 +144,7 @@ export default function Home() {
             <li><a href="#why">Почему выбирают нас</a></li>
             <li><a href="#contacts">Контакты</a></li>
           </ul>
-          <p>© 2025 Мамонт-Имп. Все права защищены.</p>
+          <p>© 2025 ООО «Форум». Все права защищены.</p>
         </nav>
       </footer>
     </div>
