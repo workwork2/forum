@@ -131,7 +131,7 @@ export default function Home() {
             </div>
 
             <div className="contact-item">
-              <strong>Адрес:</strong> 123242, 123112, город Москва, Пресненская наб, д. 12, помещ. 11н
+              <strong>Адрес:</strong>123112, город Москва, Пресненская наб, д. 12, помещ. 11н
             </div>
           </div>
         </section>
